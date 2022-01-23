@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "firstName": "Nobi123",
+      "lastName": "Nobita",
+      "email": "nobita@gmail.com",
+      "mobile": "234589",
+      "salary": "500,000"
+    },
+    {
+      "id": 8,
+      "firstName": "Doraemon",
+      "lastName": "Mon",
+      "email": "mon@gmail.com",
+      "mobile": "07543890567",
+      "salary": "700,900"
+    },
+    {
+      "id": 9,
+      "firstName": "Nguyễn",
+      "lastName": "Anh",
+      "email": "anh@gmail.com",
+      "mobile": "909888888",
+      "salary": "9,000,000"
+    },
+    {
+      "id": 2,
+      "firstName": "Mikasa",
+      "lastName": "Akerman",
+      "email": "mika@gmail.com",
+      "mobile": "908769090",
+      "salary": "5,000,000"
+    },
+    {
+      "id": 10,
+      "firstName": "Edogawa",
+      "lastName": "Conan",
+      "email": "conan@gmail.com",
+      "mobile": "0789654789",
+      "salary": "245000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
